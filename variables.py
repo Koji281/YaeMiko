@@ -17,24 +17,24 @@ class Config(object):
     DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -1001629811868
-    MESSAGE_DUMP = -1001629811868
+    EVENT_LOGS = -1002044251414
+    MESSAGE_DUMP = -1002044251414
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "ProjectCodeXSupport"
-    SUPPORT_ID = -1001629811868
+    SUPPORT_CHAT = "https://t.me/Zero_Two_Support96"
+    SUPPORT_ID = -1002044251414
 
     # Database name
     DB_NAME = "MikoDB"
 
     # Bot token
-    TOKEN = "2323839365:AAFgfdadqawlfdsM7slOa33eM_ghop"  # Get bot token from @BotFather on Telegram
+    TOKEN = "6826048528:AAFlu77TQlrl2zPEhKZ_IrwAe95ZyLu0nOg"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5907205317
+    OWNER_ID = 6924654187
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
